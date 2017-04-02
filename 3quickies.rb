@@ -1,5 +1,4 @@
 
-
 names = ["Peter","Bob", "Mary"]
 b = []
 
